@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <h1>Welcome Oshan 👋 – My First Next.js Project!</h1>
+    <h1>Welcome Malinda 👋 – My First Next.js Project!</h1>
   );
 }
